@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="AI Developer Banner" src="" />
+<img width="1584" height="396" alt="AI Developer Banner" src="https://github.com/ashish-techies/ashish-techies/blob/main/afb68a3b-4a2b-436b-b712-35b6f9f52bba.png" />
 
 _"From .NET systems to neural networks — I build code that performs and learns."_  
 Currently transitioning from building robust enterprise apps to crafting intelligent, AI-powered systems 🚀
